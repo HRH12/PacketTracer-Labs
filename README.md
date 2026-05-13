@@ -12,10 +12,8 @@
 
 ## Skills Practiced
 - Interface configuration
-- IP addressing
-- Static routes
+- Static IP addressing
 - Connectivity testing
-- Basic router security
 
 ## Verification
 - Ping successful between PCs
